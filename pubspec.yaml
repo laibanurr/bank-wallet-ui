@@ -1,0 +1,56 @@
+name: assignment
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.3.0
+  amazing_icons: ^3.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/         
+    - assets/images/        
+
+  fonts:
+    - family: GeneralSans
+      fonts:
+        - asset: assets/fonts/GeneralSans-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/GeneralSans-Variable.ttf
+          weight: 700
+
+    - family: Satoshi
+      fonts:
+        - asset: assets/fonts/Satoshi-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/Satoshi-Variable.ttf
+          weight: 700
+
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/Lora-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/Lora-Variable.ttf
+          weight: 700
+
+    - family: Sentient
+      fonts:
+        - asset: assets/fonts/Sentient-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/Sentient-Variable.ttf
+          weight: 700
