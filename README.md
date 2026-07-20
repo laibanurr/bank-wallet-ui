@@ -3,8 +3,11 @@
 I built this project to practice mixing multiple layout and navigation systems together into a single, seamless flow. 
 
 ### 📱 Check out the app in action:
-<!-- 💡 Pro-tip: Just drag and drop your screen recording video file right here! -->
-[Drop your screen recording video here to display it]
+
+
+https://github.com/user-attachments/assets/89010351-75ed-4392-b571-564ca2d09b4f
+
+
 
 ### 🛠️ What I built & learned:
 * **The Master Swipe Controller (`PageView`):** Instead of using sharp page jumps, I hooked up a PageView to let users swipe smoothly between the Onboarding screen, Dashboard, and Checkout form. 
