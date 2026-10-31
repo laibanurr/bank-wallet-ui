@@ -26,7 +26,8 @@
 
 <p align="center">
   <a href="wallet_ui.mp4">
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-wallet__ui.mp4-10B981?style=for-the-badge&logo=quicktime&logoColor=white" alt="Watch Demo" />
+    <img src="https://github.com/user-attachments/assets/89010351-75ed-4392-b571-564ca2d09b4f
+" />
   </a>
 </p>
 
