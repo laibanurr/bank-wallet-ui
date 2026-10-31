@@ -20,14 +20,12 @@
 
 <div align="center">
 
-<!-- GitHub native video player -->
-<video src="wallet_ui.mp4" width="300" controls="controls" muted="muted" style="border-radius: 16px;">
-</video>
+<!-- GitHub Native Playable Video -->
+https://github.com/user-attachments/assets/89010351-75ed-4392-b571-564ca2d09b4f
 
 <p align="center">
-  <a href="wallet_ui.mp4">
-    <img src="https://github.com/user-attachments/assets/89010351-75ed-4392-b571-564ca2d09b4f
-" />
+  <a href="https://github.com/user-attachments/assets/89010351-75ed-4392-b571-564ca2d09b4f" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Open_Full_Video-Wallet_Demo-10B981?style=for-the-badge&logo=quicktime&logoColor=white" alt="Open Video" />
   </a>
 </p>
 
