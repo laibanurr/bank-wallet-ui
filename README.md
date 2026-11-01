@@ -69,6 +69,29 @@ This project was built to practice coordinating multiple layout systems—resolv
 
 ---
 
+## 🚀 Getting Started
+
+### Prerequisites
+* Flutter SDK (3.x or higher)
+* Dart SDK (3.x or higher)
+
+### Installation
+```bash
+# 1. Clone the repository
+git clone https://github.com/laibanurr/bank-wallet-ui.git
+
+# 2. Navigate to project root
+cd bank-wallet-ui
+
+# 3. Install dependencies
+flutter pub get
+
+# 4. Run the application
+flutter run
+```
+
+---
+
 <div align="center">
   <sub>Engineered by <b>Laiba Nur</b> • Specialized in Flutter, Riverpod & Mobile Architecture</sub>
 </div>
